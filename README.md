@@ -17,7 +17,7 @@ For example:
 
         ... git output here ...
 
-    $ cd sit725-assignment3
+    $ cd Bang-board-game
 
     $ npm install
 
