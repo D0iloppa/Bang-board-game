@@ -1,5 +1,4 @@
-# sit725-assignment3
-Bang! the board game
+# Bang! the board game
 install the code for the sample program
 --------------------------------------------------------------------------------
 
@@ -12,7 +11,8 @@ From a command/shell terminal
 For example:
 
     $ cd Projects
-    $ git clone https://github.com/erickao5858/sit725-assignment3
+    $ git clone https://github.com/D0iloppa/Bang-board-game.git
+    
 
 
         ... git output here ...
